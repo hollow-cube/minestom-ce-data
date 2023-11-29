@@ -1,3 +1,8 @@
+> ![WARNING]
+> The changes in this fork have been pulled back to the main repo. The main repo should be used for any future changes.
+> 
+> [Minestom/MinestomDataGenerator](https://github.com/Minestom/MinestomDataGenerator)
+
 # Minestom Data
 
 [![license](https://img.shields.io/github/license/Minestom/MinestomDataGenerator.svg)](LICENSE)
