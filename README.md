@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is no longer in use and the changes have been merged upstream. Please see [Minestom/MinestomDataGenerator](https://github.com/Minestom/MinestomDataGenerator).
+
 # Minestom Data
 
 [![license](https://img.shields.io/github/license/Minestom/MinestomDataGenerator.svg)](LICENSE)
